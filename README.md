@@ -2,6 +2,7 @@
 # Hola, soy Fernando !
 
 Soy un desarrollador en proceso, estudiante de ingenieria en sistemas, cursando actualmente quinto semestre - tercer año.
+Me apasiona la tecnología y aprender nuevas cosas, soy una persona responsable y autodidacta.
 
 ## Redes
 
@@ -17,7 +18,7 @@ Soy un desarrollador en proceso, estudiante de ingenieria en sistemas, cursando 
 * Apache Netbeans 
 * Android Studio 
 
-## Stadisticas
+## Estadisticas
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jose-lopez1202&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
