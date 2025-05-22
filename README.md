@@ -10,7 +10,12 @@ Me apasiona la tecnología y aprender nuevas cosas, soy una persona responsable 
  - ✅[Instagram](https://www.instagram.com/jose_fl_reyes/)
 
 ## Tecnologías
-* Java, Python, C#, MySQL, Html, Css, Js, Git
+* JAVA (intermedio)
+* MySQL
+* HTML
+* CSS
+* JS
+* GIT
 ## Programas
 * Visual Studio Code 
 * Visual Studio Basic
