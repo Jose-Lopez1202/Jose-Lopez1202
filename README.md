@@ -1,5 +1,5 @@
 
-# Hola, soy Fernando !
+# Hola, soy Jose !
 
 Soy un desarrollador en proceso, estudiante de ingenieria en sistemas, cursando actualmente quinto semestre - tercer año.
 Me apasiona la tecnología y aprender nuevas cosas, soy una persona responsable y autodidacta.
