@@ -2,7 +2,7 @@
 # Hola, soy Jose !
 
 Soy un desarrollador en proceso, estudiante de ingenieria en sistemas, cursando actualmente el sexto semestre - tercer año.
-Me apasiona la tecnología y aprender nuevas cosas, soy una persona responsable y autodidacta.
+Me apasiona la tecnología y aprender nuevas cosas.
 
 ## Redes
 
