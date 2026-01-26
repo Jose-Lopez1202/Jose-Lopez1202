@@ -1,7 +1,7 @@
 
 # Hola, soy Jose !
 
-Soy un desarrollador en proceso, estudiante de ingenieria en sistemas, cursando actualmente el sexto semestre - tercer año.
+Soy un desarrollador en proceso y analista de datos, estudiante de ingenieria en sistemas, cursando actualmente el septimo semestre - cuarto año.
 Me apasiona la tecnología y aprender nuevas cosas.
 
 ## Redes
@@ -16,12 +16,14 @@ Me apasiona la tecnología y aprender nuevas cosas.
 * CSS
 * JS
 * GIT
+* PYTHON
 ## Programas
 * Visual Studio Code 
 * Visual Studio Basic
 * SQL Server - SQL workbench
 * Apache Netbeans 
-* Android Studio 
+* Android Studio
+* Power BI
 
 ## Estadisticas
 
