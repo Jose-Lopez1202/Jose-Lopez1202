@@ -10,13 +10,18 @@ Me apasiona la tecnología y aprender nuevas cosas.
  - ✅[Instagram](https://www.instagram.com/jose_fl_reyes/)
 
 ## Tecnologías
-* JAVA (intermedio)
+* JAVA 
 * MySQL
 * HTML
 * CSS
+* ANGULAR
+* REACT
 * JS
 * GIT
 * PYTHON
+* Plataformas CMS
+* Websites Builders
+* Plataformas e-commerce
 ## Programas
 * Visual Studio Code 
 * Visual Studio Basic
