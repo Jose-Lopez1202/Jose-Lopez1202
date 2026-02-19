@@ -12,6 +12,8 @@ Me apasiona la tecnología y aprender nuevas cosas.
 ## Tecnologías
 * JAVA 
 * MySQL
+* ORACLE
+* POSTGRESQL
 * HTML
 * CSS
 * ANGULAR
@@ -29,10 +31,6 @@ Me apasiona la tecnología y aprender nuevas cosas.
 * Apache Netbeans 
 * Android Studio
 * Power BI
+  
 
-## Estadisticas
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jose-lopez1202&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-lopez1202&hide_progress=true)
 
